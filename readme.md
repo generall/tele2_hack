@@ -7,7 +7,7 @@
 * [ScoreModel.ipynb](ScoreModel.ipynb) - примеры команд для обучения и взаимодействия с нейросетью
 * [SelectAnswer.ipynb](SelectAnswer.ipynb) - применение нейросети для поиска подходящих ответов
 * [model_clusterization.ipynb](model_clusterization.ipynb) - кластеризация ответов оператора, поиск частых похожих ответов. Генерация автоответов
-* [Anomaly_and_sentiment_detection.ipynb](Anomaly_and_sentiment_detection.ipynb) - Обнаружение аномалий, ментимент анализ, визуализация
+* [Anomaly_and_sentiment_detection.ipynb](Anomaly_and_sentiment_detection.ipynb) - Обнаружение аномалий, cентимент анализ, визуализация
 
 
 * [DSSM](DSSM) - скрипты для обучения нейросети 
