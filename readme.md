@@ -1,7 +1,7 @@
 # Команда 2HACK4YOU для Хакатона Tele2Hack (1-е место)
 
 * [https://github.com/generall] - Андрей Васнецов (DeepLearningEngineer@Tinkoff)
-* [github.com/ivkonst] - Констанин Иванов (DataScientist@Tinkoff) 
+* [github.com/ivkonst] - Констанин Иванов (DataScientist@Tinkoff)
 * [https://github.com/Ab1992ao] - Александр Абрамов (DataScientist@DIT_Moscow)
 * [https://github.com/diff7/] - Швецов Егор (DigitalMarketer@Unemployed)
 
